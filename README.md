@@ -24,3 +24,8 @@ https://doi.org/10.5281/zenodo.18615600
 
 ## Status
 LOCKED — AUDIT-TRACEABLE — ENFORCED
+
+## Enforcement Statement
+
+Authority is enforced through explicit Decision Boundaries, escalation thresholds, and Stop Authority conditions.
+
