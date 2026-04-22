@@ -1,0 +1,25 @@
+# Negotiation
+
+If buyer asks for discount:
+
+Response:
+The value is in preventing real production risk.
+
+If budget is the issue, we can reduce scope, not price.
+
+---
+
+If buyer hesitates:
+
+Offer:
+We can run a live deployment first.
+
+If it doesn’t show value, don’t proceed.
+
+---
+
+If buyer pushes timeline:
+
+Close:
+We can start today.
+
