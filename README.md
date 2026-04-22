@@ -1,31 +1,80 @@
 # HHI Monetization System
 
-## Authority Notice
+## Purpose
 
-Canonical Definitions:
-https://github.com/hhidatasettechs-oss/Hollow_House_Standards_Library
+Execution-Time Governance system with enforced Decision Boundaries, licensing enforcement, and Continuous Assurance. Audit-ready and DOI-bound.
+
+## Governance Layer
+
+Product (Execution System)
+
+## What This System Does
+
+Operational AI Governance system enforcing:
+- Decision Boundaries at execution time
+- Licensing triggers and enforcement
+- Continuous Assurance across deployments
+- Checksum-bound artifacts
+- Stop Authority when unauthorized use is detected
+
+## Enforcement Rules
+
+- All usage beyond passive reference requires licensing
+- All artifacts are checksum-bound and verifiable
+- Unauthorized use triggers Stop Authority
+- Licensing enforcement is non-bypassable
+- Accountability is bound to every usage event
+
+## Core Principle
+
+**Time turns behavior into infrastructure.**  
+**Behavior is the most honest data there is.**
+
+## Authority & Canonical References
+
+Canonical Source:
+https://github.com/Hollow-house-institute/Hollow_House_Standards_Library
 
 Governance Standard:
-HHI_GOV_01
+https://github.com/Hollow-house-institute/HHI_GOV_01
 
-Licensing Authority:
-HHI Master License Suite
+SYSTEM MAP:
+https://github.com/Hollow-house-institute/HHI_GOV_01/blob/main/SYSTEM_MAP.md
 
-## Function
-Operational AI Governance system enforcing Decision Boundaries, licensing triggers, and Continuous Assurance.
-
-## Enforcement
-- All usage beyond passive reference requires licensing
-- All artifacts are checksum-bound
-- Unauthorized use triggers Stop Authority
-
-## DOI Binding
+DOI:
 https://doi.org/10.5281/zenodo.18615600
 
+ORCID:
+https://orcid.org/0009-0009-4806-1949
+
+<!-- HHI_AUTHORITY_BLOCK_START -->
+## Authority & Canonical References
+
+Canonical Source: https://github.com/Hollow-house-institute/Hollow_House_Standards_Library
+
+Governance Standard: https://github.com/Hollow-house-institute/HHI_GOV_01
+
+SYSTEM MAP: https://github.com/Hollow-house-institute/HHI_GOV_01/blob/main/SYSTEM_MAP.md
+
+DOI: https://doi.org/10.5281/zenodo.18615600
+
+ORCID: https://orcid.org/0009-0009-4806-1949
+
+Glossary Version: v1.3.0
+<!-- HHI_AUTHORITY_BLOCK_END -->
+
 ## Status
+
 LOCKED — AUDIT-TRACEABLE — ENFORCED
+
+## License
+
+This repository is governed under the Hollow House Institute Master License Suite (HHI-MLS).
+
+https://github.com/Hollow-house-institute/Master_License_Suite
+
+No rights are granted beyond those explicitly defined.
 
 ## Enforcement Statement
 
 Authority is enforced through explicit Decision Boundaries, escalation thresholds, and Stop Authority conditions.
-
