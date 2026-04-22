@@ -36,3 +36,19 @@ See: examples/sample_output.json
 Monitoring without control = Governance Illusion  
 This toolkit enforces control at execution time.
 
+
+## Offer
+
+HHI Governance Toolkit v1
+
+- Deployment: < 1 hour
+- Use case: Drift control + audit readiness
+- Includes: scripts, telemetry, enforcement logic
+
+Pricing:
+$5,000 one-time
+$1,500 guided setup (optional)
+
+Next Step:
+Schedule a live demo or run the toolkit directly
+

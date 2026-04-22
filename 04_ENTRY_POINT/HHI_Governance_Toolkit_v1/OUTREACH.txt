@@ -1,0 +1,15 @@
+Subject: Quick way to control AI drift in production
+
+You don’t need another framework.
+
+You need something that actually blocks bad outputs.
+
+I built a lightweight governance toolkit that:
+- detects drift
+- enforces decision boundaries
+- logs everything for audit
+
+Takes under an hour to deploy.
+
+If you want, I can run a 15-minute demo and show it live.
+
